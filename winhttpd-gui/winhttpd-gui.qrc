@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/winhttpd.ico</file>
+        <file>Resources/downplus.png</file>
+        <file>Resources/minus.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/search.png</file>
+    </qresource>
+</RCC>
